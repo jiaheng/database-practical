@@ -1,1 +1,1 @@
-# database-practical
+# Database Practical
